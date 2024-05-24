@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>蓝铃轻语,风信绘梦</title>
+        <link>https://valaxy.site/</link>
+        <description>落日沉溺于橘色的海,晚风沦陷于赤城的爱</description>
+        <lastBuildDate>Fri, 24 May 2024 09:42:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>蓝铃轻语,风信绘梦</title>
+            <url>https://valaxy.site/valaxy-logo.png</url>
+            <link>https://valaxy.site/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 风信子</copyright>
+        <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[关于我成为程序员的这件事（前端程序员也是程序员）！]]></title>
+            <link>https://valaxy.site/posts/myFirst</link>
+            <guid>https://valaxy.site/posts/myFirst</guid>
+            <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>什么时候起呢，突然就对电脑技术感兴趣了。自我介绍下吧，本人，男，98年出生，至今母胎solo，双鱼座（还是一个浪漫的星座，话说我不爱吃鱼和我星座没关系吧）。网名风信子（为什么起</p>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (风信子)</author>
+        </item>
+        <item>
+            <title><![CDATA[日常分析（关于一个奇葩需求）]]></title>
+            <link>https://valaxy.site/posts/share</link>
+            <guid>https://valaxy.site/posts/share</guid>
+            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>再有一次做项目时，本人碰到一个奇葩需求，把一大组数据按照甘特图那种排列，大于70分的显示绿色，60-70分的显示橘黄色，60分以下的显示红色，也就是一个设备分数吧，每一个分数都</p>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (风信子)</author>
+        </item>
+        <item>
+            <title><![CDATA[Vue3添加Eslint校验]]></title>
+            <link>https://valaxy.site/posts/hello-valaxy</link>
+            <guid>https://valaxy.site/posts/hello-valaxy</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Eslint</h2>
+<p>​在所有的JavaScript 项目开发中我们都会接触到 ESLint 这个词，ESLint 是个什么样的组件会给为项目做些什么吗？ESLint 是一<br>
+种检查语法错误以及代码是</p>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (风信子)</author>
+        </item>
+    </channel>
+</rss>
