@@ -47,7 +47,7 @@ export default defineValaxyConfig({
     addons: [
       addonWaline({
         // Waline 配置项，参考 https://waline.js.org/reference/client/props.html
-        serverURL: "https://your-waline-url",
+        serverURL: "https://aiaris-github-io-74vt-bub6cwn99-aiaris-projects.vercel.app/",
       }),
     ],
     // footer: {
