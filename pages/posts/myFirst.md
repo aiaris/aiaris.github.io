@@ -1,5 +1,6 @@
 ---
 title: 关于我成为程序员的这件事（前端程序员也是程序员）！
+aplayer: true
 date: 2024-05-23
 updated: 2024-05-25
 categories: Valaxy 笔记
@@ -23,6 +24,3 @@ top: 1
  type="song"
  theme="#C20C0C">
 </meting-js>
----
-aplayer: true
----
