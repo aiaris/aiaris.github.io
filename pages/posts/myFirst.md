@@ -17,3 +17,12 @@ top: 1
 ## 结尾
 
 其实我也想成为一个高手来着，但最后怎么就变成一个页面仔了....
+<meting-js
+ id="22736708"
+ server="netease"
+ type="song"
+ theme="#C20C0C">
+</meting-js>
+---
+aplayer: true
+---

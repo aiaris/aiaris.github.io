@@ -90,7 +90,9 @@ export default defineSiteConfig({
   ],
 
   search: {
-    enable: false,
+    enable: true,
+    // Set type to 'fuse'
+    type: 'fuse',
   },
 
   /**
