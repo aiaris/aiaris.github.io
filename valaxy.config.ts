@@ -21,8 +21,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   addons: [
     addonWaline({
       // Waline 配置项，参考 https://waline.js.org/reference/client/props.html
-      serverURL:
-        "https://aiaris-github-io-74vt-bub6cwn99-aiaris-projects.vercel.app/",
+      serverURL: "https://waline-dream-d6vge5yd0-aiaris-projects.vercel.app/",
     }),
   ],
   theme: "yun",
